@@ -60,28 +60,37 @@ I'm a skilled Prompt Engineer with expertise in Machine Learning, Deep Learning,
 -	Conducted fine-tuning experiments on large language models (LLMs) using Langchain and llamaIndex datasets to improve natural language processing (NLP) capabilities.
 -	Engineered prompts and input data for AWS Bedrock infrastructure, ensuring seamless integration and efficient model deployment.
 
-### Data Analyst/ AI Machine Learning
+### Data Analyst | AI Machine Learning
 **Northwest Missouri State University | Missouri, US**  
-*Sep 2022-Dec 2023*
+*Jan 2023-Dec 2023*
 
 - Implemented advanced NLP algorithms such as BERT and GPT for claims denial reasons processing.
 - Integrated NLP models into Prime Therapeutics' claims processing workflow.
 - Developed custom ML pipelines for preprocessing and feature engineering.
 
+### Jr. Data Scientist | AI Machine Learning
+**Hexera Technologies LLC | India**   
+*May 2022 - July 2022*
+
+- Developed and implemented data preprocessing pipelines to cleanse, normalize, and standardize raw business data for optimal model performance.
+- Utilized Generative AI techniques to synthesize realistic data samples, enhancing the diversity and robustness of the training dataset for machine learning models.
+- Applied Large Language Models (LLMs) such as GPT-3 to generate natural language responses and insights from structured and unstructured business data.
+
 ### Data Engineer | AI Machine Learning
 **NCR Corporation | Gurgaon, India**  
-*Feb 2021-Aug 2022*
+*Feb 2021-May 2022*
 
 - Integrated Large Language Models (LLMs) for NLP in chatbots.
 - Developed and deployed ML models leveraging Python and TensorFlow.
 - Implemented prompt engineering techniques to enhance the conversational and natural interface of the chatbot, improving user engagement and satisfaction.
 
-### Data Analyst Intern | AI Machine Learning
-**Lovely Professional University | India**  
-*Sep 2020-Jan 2021*
+### AI Intern | AI Machine Learning
+**Master Works IT Solutions Private Limited | India**   
+*Jan 2020-Jan 2021*
 
--	Build student churn prediction, partial churn prediction and propensity models using XG-BOOST with an accuracy of 87% 
--	Developed a forecasting model using time series analysis and machine learning algorithms to predict customer data usage. 
+- Developed and implemented machine learning models for financial data analysis using TensorFlow, Keras, and PyTorch.
+- Utilized TensorFlow and Keras to build deep learning models for predicting market trends, and financial indicators.
+- Employed PyTorch for developing custom deep learning architectures tailored to specific financial prediction tasks, such as time series forecasting and anomaly detection.
 
 ---
 
