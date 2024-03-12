@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1mqT62mRze3ecdkJEp-NN2CEKkWB2EDVh/edit?usp=sharing&ouid=103952225841842540574&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1aHCxVKm516C8IpbNN-QONKEgvRgNYRId/edit?usp=drive_link&ouid=103952225841842540574&rtpof=true&sd=true" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
