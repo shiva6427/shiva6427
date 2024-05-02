@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Vangari</h1>
-<h3 align="center">👨‍💼 Prompt Engineer 📍 Alpharetta, Georgia</h3>
+<h3 align="center">👨‍💼 Prompt Engineer | Machine Learning Engineer 📍 Alpharetta, Georgia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva6427&label=Profile%20views&color=0486d7&style=plastic" alt="shiva6427" /> </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1aHCxVKm516C8IpbNN-QONKEgvRgNYRId/edit?usp=drive_link&ouid=103952225841842540574&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1mHoo-LY0EiAkUrQvWi5hDVb7xaOGOTQC/edit?usp=sharing&ouid=100724664994279931842&rtpof=true&sd=true" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
@@ -33,7 +33,7 @@
 ---
 
 ## 📋 Bio
-I'm a skilled Prompt Engineer with expertise in Machine Learning, Deep Learning, Big Data, and AI. Proficient in Python, AWS, Azure, and ML model deployment. Passionate about leveraging data to drive impactful insights.
+I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Machine Learning, Deep Learning, Big Data, and AI. Proficient in Python, AWS, Azure, and ML model deployment. Passionate about leveraging data to drive impactful insights.
 
 ---
 
@@ -52,7 +52,7 @@ I'm a skilled Prompt Engineer with expertise in Machine Learning, Deep Learning,
 
 ## 💼 Work Experience
 
-### Prompt Engineer
+### Machine Learninng Engineer | Prompt Engineer
 **Maxpep LLC | Alpharetta, GA**  
 *Jan 2024-Present*
 
@@ -60,7 +60,7 @@ I'm a skilled Prompt Engineer with expertise in Machine Learning, Deep Learning,
 -	Conducted fine-tuning experiments on large language models (LLMs) using Langchain and llamaIndex datasets to improve natural language processing (NLP) capabilities.
 -	Engineered prompts and input data for AWS Bedrock infrastructure, ensuring seamless integration and efficient model deployment.
 
-### Data Analyst | AI Machine Learning
+### Machine Learning Engineer | AI Machine Learning
 **Northwest Missouri State University | Missouri, US**  
 *Jan 2023-Dec 2023*
 
