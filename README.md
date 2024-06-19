@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1mHoo-LY0EiAkUrQvWi5hDVb7xaOGOTQC/edit?usp=sharing&ouid=100724664994279931842&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1byoBegbzt4wkntONEtDCLf5BkI6hMq-c/edit?usp=sharing&ouid=100724664994279931842&rtpof=true&sd=true" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
@@ -53,7 +53,7 @@ I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Ma
 ## 💼 Work Experience
 
 ### Machine Learninng Engineer | Prompt Engineer
-**Maxpep LLC | Alpharetta, GA**  
+**Carvana | Alpharetta, GA**  
 *Jan 2024-Present*
 
 -	Developed and implemented prompt engineering strategies to optimize performance and accuracy of Generative AI models.
@@ -68,7 +68,7 @@ I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Ma
 - Integrated NLP models into Prime Therapeutics' claims processing workflow.
 - Developed custom ML pipelines for preprocessing and feature engineering.
 
-### Jr. Data Scientist | AI Machine Learning
+### Data Scientist | AI Machine Learning
 **Hexera Technologies LLC | India**   
 *May 2022 - July 2022*
 
