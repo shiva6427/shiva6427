@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Vangari</h1>
-<h3 align="center">👨‍💼 Prompt Engineer | Machine Learning Engineer 📍 Alpharetta, Georgia</h3>
+<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Milwaukee, Wisconsin</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva6427&label=Profile%20views&color=0486d7&style=plastic" alt="shiva6427" /> </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1byoBegbzt4wkntONEtDCLf5BkI6hMq-c/edit?usp=sharing&ouid=100724664994279931842&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/file/d/15qPIwWVfwKicoqPqmct-wW0dtDy54UCf/edit?usp=docslist_api&filetype=msword" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
@@ -33,7 +33,7 @@
 ---
 
 ## 📋 Bio
-I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Machine Learning, Deep Learning, Big Data, and AI. Proficient in Python, AWS, Azure, and ML model deployment. Passionate about leveraging data to drive impactful insights.
+I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, Big Data, and AI. Proficient in Python, AWS, Azure, and ML model deployment. Passionate about leveraging data to drive impactful insights.
 
 ---
 
@@ -52,9 +52,9 @@ I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Ma
 
 ## 💼 Work Experience
 
-### Machine Learninng Engineer | Prompt Engineer
-**Carvana | Alpharetta, GA**  
-*Jan 2024-Present*
+### Machine Learninng Engineer | AI/ML Engineer
+**Gateway Solutions | Kansas, MO**  
+*Jan 2024-Aug 2024*
 
 -	Developed and implemented prompt engineering strategies to optimize performance and accuracy of Generative AI models.
 -	Conducted fine-tuning experiments on large language models (LLMs) using Langchain and llamaIndex datasets to improve natural language processing (NLP) capabilities.
@@ -67,14 +67,6 @@ I'm a skilled Prompt Engineer and Machine Learning Engineer with expertise in Ma
 - Implemented advanced NLP algorithms such as BERT and GPT for claims denial reasons processing.
 - Integrated NLP models into Prime Therapeutics' claims processing workflow.
 - Developed custom ML pipelines for preprocessing and feature engineering.
-
-### Data Scientist | AI Machine Learning
-**Hexera Technologies LLC | India**   
-*May 2022 - July 2022*
-
-- Developed and implemented data preprocessing pipelines to cleanse, normalize, and standardize raw business data for optimal model performance.
-- Utilized Generative AI techniques to synthesize realistic data samples, enhancing the diversity and robustness of the training dataset for machine learning models.
-- Applied Large Language Models (LLMs) such as GPT-3 to generate natural language responses and insights from structured and unstructured business data.
 
 ### Data Engineer | AI Machine Learning
 **NCR Corporation | Gurgaon, India**  
