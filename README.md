@@ -52,7 +52,15 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 
 ## 💼 Work Experience
 
-### Machine Learninng Engineer | AI/ML Engineer
+### AI Engineer
+**Microsoft | Milwaukee, WI**  
+*Sep 2024-Present*
+
+-	Led 10+ design thinking sessions with enterprise clients, identifying Generative AI and Machine learning use cases.
+-	Leveraged Azure ML and AutoML to build time series forecasting models with Prophet, improving demand forecasting accuracy by 25%, and leading to optimized resource allocation.
+-	Implemented semantic chunking using Langchain and Azure skillsets to improve data preprocessing efficiency by 30%.
+  
+### Machine Learninng Engineer
 **Gateway Solutions | Kansas, MO**  
 *Jan 2024-Aug 2024*
 
@@ -60,7 +68,7 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 -	Conducted fine-tuning experiments on large language models (LLMs) using Langchain and llamaIndex datasets to improve natural language processing (NLP) capabilities.
 -	Engineered prompts and input data for AWS Bedrock infrastructure, ensuring seamless integration and efficient model deployment.
 
-### Machine Learning Engineer | AI Machine Learning
+### Machine Learning Engineer
 **Northwest Missouri State University | Missouri, US**  
 *Jan 2023-Dec 2023*
 
@@ -68,7 +76,7 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 - Integrated NLP models into Prime Therapeutics' claims processing workflow.
 - Developed custom ML pipelines for preprocessing and feature engineering.
 
-### Data Engineer | AI Machine Learning
+### Data Engineer
 **NCR Corporation | Gurgaon, India**  
 *Feb 2021-May 2022*
 
@@ -76,7 +84,7 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 - Developed and deployed ML models leveraging Python and TensorFlow.
 - Implemented prompt engineering techniques to enhance the conversational and natural interface of the chatbot, improving user engagement and satisfaction.
 
-### AI Intern | AI Machine Learning
+### AI Intern
 **Master Works IT Solutions Private Limited | India**   
 *Jan 2020-Jan 2021*
 
