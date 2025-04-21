@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Vangari</h1>
-<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Milwaukee, Wisconsin</h3>
+<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Hyderabad, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva6427&label=Profile%20views&color=0486d7&style=plastic" alt="shiva6427" /> </p>
 
