@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Vangari</h1>
-<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Hyderabad, India</h3>
+<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Seattle, WA</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva6427&label=Profile%20views&color=0486d7&style=plastic" alt="shiva6427" /> </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1Ixq2vZZsT0j87sFb_MZE3AwjHJ_g0CsE/edit?usp=sharing&ouid=100724664994279931842&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1NUs4AfHEgM9_JafrSNYmsXnyw_FMHBTSQNKv4OoiWfw/edit?usp=sharing" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
@@ -54,7 +54,7 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 
 ### AI Engineer
 **Microsoft | Milwaukee, WI**  
-*Sep 2024-Present*
+*Aug 2024-May 2025*
 
 -	Led 10+ design thinking sessions with enterprise clients, identifying Generative AI and Machine learning use cases.
 -	Leveraged Azure ML and AutoML to build time series forecasting models with Prophet, improving demand forecasting accuracy by 25%, and leading to optimized resource allocation.
@@ -117,15 +117,18 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 
 ## 🎓 Certifications
 
+- [AI-102 Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/shivavangari-1481/EB0DEB1282461365?sharingId=26579A51ED47F579)
+- [DP-100 Microsoft Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/shivavangari-1481/credentials/d521938731868d79)
+- [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/shivavangari-1481/credentials/CB31EBE0A5F2A2EA)
+- [Microsoft Azure Data Engineer Associate](https://learn.microsoft.com/en-us/users/shivavangari-1481/credentials/151df9d28fb13096)
+- [Microsoft Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/shivavangari-1481/AEBF6E17C865EDCC?sharingId=26579A51ED47F579)
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/shivavangari-1481/A07CD36D3A8FB81E?sharingId=26579A51ED47F579)
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/records/RUUSGLV88LUL)
-- [Microsoft Azure Data Engineer Associate](https://www.credly.com/badges/87b06168-b900-4130-b6c9-4730410a1fcf/linked_in_profile)
-- [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/3979d3ce-22f2-4ede-a199-16f6493f5c7b/linked_in_profile)
-- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/20e31ca5-a285-4c45-92a7-8478079e13d9?source=linked_in_profile)
-- [Microsoft Azure Fundamentals](https://www.credly.com/badges/39c41b75-8cd6-40b0-b934-227aeb62e94b?source=linked_in_profile)
 - [IBM - Big Data Foundations](https://www.credly.com/badges/5b9cf3f8-3c8e-4dcc-b02f-7f6f717e1298?source=linked_in_profile)
 - [IBM - Data Science Foundations](https://www.credly.com/badges/be13a978-d351-492d-96a7-ab5c5e199f85?source=linked_in_profile)
 - [IBM - Python for Data Science](https://www.credly.com/badges/83fa64b9-ffe3-437f-b254-9c0d260575b5?source=linked_in_profile)
 - [Academy Accreditation – Generative AI Fundamentals](https://credentials.databricks.com/62c65a60-4f15-4dbe-aad9-c9bc1bae8ccf)
+- [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/98a54148-be09-4dc7-aae6-c77a1191d1a3/linked_in_profile)
 
 ---
 
