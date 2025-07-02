@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Vangari</h1>
-<h3 align="center">👨‍💼 AI/ML Engineer | Machine Learning Engineer 📍 Seattle, WA</h3>
+<h3 align="center">👨‍💼 AI/ML Engineer 📍 Hyderabad, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiva6427&label=Profile%20views&color=0486d7&style=plastic" alt="shiva6427" /> </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
 <h3 align="center"> 📄 My Resume</h3>
    <p align="center">
-  <a href="https://docs.google.com/document/d/1NUs4AfHEgM9_JafrSNYmsXnyw_FMHBTSQNKv4OoiWfw/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/14OZUzJNJ00xx23NKV8GpwntIYJBMIa5N/edit?usp=sharing&ouid=103952225841842540574&rtpof=true&sd=true" target="_blank">
     <img src="https://media.giphy.com/media/hp8svqfEfk7q4qPgfy/giphy.gif" alt="Clickable GIF" width="150" height="100">
 </a>
 
@@ -52,9 +52,9 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 
 ## 💼 Work Experience
 
-### AI Engineer
+### AI/ML Engineer
 **Microsoft | Milwaukee, WI**  
-*Aug 2024-May 2025*
+*Aug 2024-Apr 2025*
 
 -	Led 10+ design thinking sessions with enterprise clients, identifying Generative AI and Machine learning use cases.
 -	Leveraged Azure ML and AutoML to build time series forecasting models with Prophet, improving demand forecasting accuracy by 25%, and leading to optimized resource allocation.
