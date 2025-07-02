@@ -142,7 +142,8 @@ I'm a skilled AI/ML Engineer with expertise in Machine Learning, Deep Learning, 
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva6427&theme=dark" alt="shiva6427" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shiva6427&theme=dark" alt="shiva6427" /></p>
+
 
 
 
